@@ -1,0 +1,13 @@
+General Hospital, 0, 200
+Power, 0, 150
+Rick and Morty, 0, 100
+Grey's Anatomy, 0, 250
+Avatar: The Last Airbender, 0, 60
+To Kill a Mockingbird, 1, 20
+Twelve Years a Slave, 1, 30
+Chase, 1, 13
+The Scarlet Letter, 1, 25
+Nevermind, 2, 18
+Crash, 2, 9
+Wish You Were Here, 2, 10
+Twice as Tall, 2, 7
